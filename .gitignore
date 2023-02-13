@@ -1,0 +1,26 @@
+
+# rust
+**/*.rs.bk
+.cargo
+.target
+**/target/
+**/*.log
+/cargo-timing*.html
+.docker
+
+# python 
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.tox
+
+# node 
+node_modules
+.serverless
+
+# ide
+**/.idea/
+**/.vscode/*.*
