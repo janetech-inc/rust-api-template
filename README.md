@@ -144,7 +144,7 @@ Github deployment actions are setup to use [assume a role](https://github.com/ma
 
 See the [assumed rule](.github/workflows/_deploy.yml) in AWS Console for permissions.
 
-TODO: Add role permissions to serverless.yml/
+TODO: How to update role permissions via serverless.yml
 
 
 ## Contributing to this template
