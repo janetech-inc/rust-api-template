@@ -108,7 +108,7 @@ Create a new service by selecting the button above :point_up_2:
 
 ## Connecting to a source DB
 
-> TODO: Add DB support
+> TODO: DB support with Examples
 
 
 ## Test Driven Development (TDD)
