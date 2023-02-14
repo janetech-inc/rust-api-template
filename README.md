@@ -61,7 +61,7 @@ A test driven micro-service template to build and deploy a rust API service with
 
 ## Creating a new service
 
-Create a new service by selecting the button above :point_up_2:
+Create a new service by selecting the button above 👇 :
 
 <img src="assets/images/use-template.png" width="150"> 
 
